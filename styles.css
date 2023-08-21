@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
+.img{
+	object-fit:"cover"
+}
 .hero{
-	display:right;
+	display:block;
 	justify-content:center;
 	align-items:right;
 }
